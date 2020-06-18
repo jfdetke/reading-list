@@ -9,5 +9,5 @@ place for reading lists, stealing a good idea from others.
 
 # My list
 * A [link](http://example.com "Title").
-* A [link](https://landing.google.com/sre/sre-book/toc/index.html "Google SRE book")
-* A [link](https://landing.google.com/sre/workbook/toc/ "the SRE Workbook")
+* [Google SRE book](https://landing.google.com/sre/sre-book/toc/index.html "Google SRE book")
+* [Google SRE Workbook](https://landing.google.com/sre/workbook/toc/ "the SRE Workbook")

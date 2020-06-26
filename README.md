@@ -11,6 +11,7 @@ place for reading lists, borrowing a good idea from others.
 
 # Managing
 * Managers Path
+* Servant leader
 
 # General
 * Black swan, 2nd edition

@@ -15,3 +15,6 @@ place for reading lists, borrowing a good idea from others.
 
 # General
 * Black swan, 2nd edition
+
+# DNS
+* https://jvns.ca/blog/how-updating-dns-works/

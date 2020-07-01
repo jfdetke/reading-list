@@ -8,6 +8,7 @@ place for reading lists, borrowing a good idea from others.
 # SRE
 * [Google SRE book](https://landing.google.com/sre/sre-book/toc/index.html "Google SRE book")
 * [Google SRE Workbook](https://landing.google.com/sre/workbook/toc/ "the SRE Workbook")
+* [Post Mortems](https://github.com/danluu/post-mortems)
 
 # CSE
 * [CSR Reading list](https://github.com/lorin/cognitive-systems-engineering)

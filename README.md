@@ -9,6 +9,9 @@ place for reading lists, borrowing a good idea from others.
 * [Google SRE book](https://landing.google.com/sre/sre-book/toc/index.html "Google SRE book")
 * [Google SRE Workbook](https://landing.google.com/sre/workbook/toc/ "the SRE Workbook")
 
+# CSE
+* [CSR Reading list](https://github.com/lorin/cognitive-systems-engineering)
+
 # Managing
 * Managers Path
 * Servant leader

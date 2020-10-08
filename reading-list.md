@@ -2,7 +2,7 @@
 place for reading lists, borrowing a good idea from others.
 
 
-# For bosses
+# For managers and leaders:
 * Radical Candor
 * The managers path
 * Unf*ck Yourself
